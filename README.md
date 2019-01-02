@@ -1,5 +1,5 @@
 # FirstGame
-
+![Gif](https://github.com/yutateno/PastingGif/blob/master/pickupweapon.gif)
 
 初作品のゲームです。
 
