@@ -1,5 +1,5 @@
 # FirstGame
-![Gif](https://raw.github.com/wiki/yutateno/FirstGame/firstgame.gif)
+![Gif](https://raw.github.com/wiki/yutateno/FirstGame/first.gif)
 <br><br>
 初作品のゲームです。
 <br><br>
